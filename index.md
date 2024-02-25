@@ -52,8 +52,6 @@ We furthermore encourage submissions to the special theme Ethics in Affective Co
 - What aspects are particular important for affective analysis tasks, in contrast to other NLP
 settings?
 
-
-
 ### Sponsors:
+TBA
 
-<img src="./assets/images/google_logo.png"  width="50%" height="50%">
