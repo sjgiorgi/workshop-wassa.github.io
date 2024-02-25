@@ -14,10 +14,13 @@ header:
 
 ## News
 
+**Feb 26**: First CFP for WASSA workshop is out. Happy to announce that this year WASSA is also hosting two shared tasks.
+**Jan 15**: We have confirmation that WASSA will take place on Thursday 15 August 2024.
 **Nov 3**: The 2024 edition of WASSA will be collocated with ACL 2024, in Bangkok, Thailand. We will have more information out soon regarding the call for papers, etc.
 
 ### Invited Speakers
 
+TBA
 
 ### Background and Envisaged Scope
 Subjectivity and Sentiment Analysis has become a highly developed research area, ranging from binary classification of reviews to the detection of complex emotion structures between entities found in text. This field has expanded both on a practical level, finding numerous successful applications in business, as well as on a theoretical level, allowing researchers to explore more complex research questions related to affective computing. Its continuing importance is also shown by the interest it generates in other disciplines such as Economics, Sociology, Psychology, Marketing, Crisis Management & Digital Humanities.
