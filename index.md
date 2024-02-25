@@ -14,8 +14,9 @@ header:
 
 ## News
 
-**Feb 26**: First CFP for WASSA workshop is out. Happy to announce that this year WASSA is also hosting two shared tasks.
+
 **Jan 15**: We have confirmation that WASSA will take place on Thursday 15 August 2024.
+
 **Nov 3**: The 2024 edition of WASSA will be collocated with ACL 2024, in Bangkok, Thailand. We will have more information out soon regarding the call for papers, etc.
 
 ### Invited Speakers
