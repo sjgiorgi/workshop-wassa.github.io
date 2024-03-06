@@ -11,8 +11,8 @@ header:
 
 ### Important Dates:
 
-* February 5, 2024 - First call for papers
-* March 4, 2024 - Second call for papers
+* March 6, 2024 - First call for papers
+* April 15, 2024 - Second call for papers
 * May, 17 2024 - Paper submission deadline
 * June, 17 2024 – Notification of acceptance.
 * July 1, 2024 - Camera-ready papers due.
