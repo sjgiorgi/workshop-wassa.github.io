@@ -14,6 +14,7 @@ header:
 
 ## News
 
+**March 6**: The first call for papers is out.
 
 **Jan 15**: We have confirmation that WASSA will take place on Thursday 15 August 2024.
 
@@ -45,13 +46,7 @@ The aim of WASSA 2024 is to bring together researchers working on Subjectivity, 
 - Applications of sentiment and emotion mining
 - Public sentiments and communication patterns of public health emergencies.
 
-We furthermore encourage submissions to the special theme Ethics in Affective Computing, including opinion papers, as well as experimental papers. This includes the following topics, but is not limited to them:
-
-- Which properties of a model render a automatic analysis task unethical?
-- Which characteristics of an annotation task are to be considered in ethical considerations?
-- What are appropriate methods to analyze data and models from an ethical perspective?
-- What aspects are particular important for affective analysis tasks, in contrast to other NLP
-settings?
+In the past years we have noticed that WASSA offers a platform to researchers investigating sentiment and emotion in lesser-resourced languages. The 2023 edition featured work on no less than 23 different languages and two papers specifically targeted multilingual emotion detection. We wish to continue these efforts as we find it important to consider and publish advances in any language as this helps to underline the wealth of our research community and to diminish the dominance of English-language research. To this purpose we propose a **Special track on multilinguality and social bridge between high- and lesser-resourced languages/communities**.
 
 ### Sponsors:
 TBA
