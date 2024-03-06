@@ -16,7 +16,7 @@ We foresee a fourth run of this shared task using a new, unpublished extension o
 Shared-task 1 can be found on [codalab]().
 
 ## Shared-Task 2: Explainability of Cross-lingual Emotion Detection
-The is the first shared task on explainability of cross-lingual emotion detection. With recent developments of large, opaque, black box systems behind APIs, it is becoming harder and harder to understand the rationales behind decisions made by these models for subjective tasks. To look further into one such direction, we aim to better understand the decision making of emotion detection systems and assess if they are capable of understanding the triggers of emotion in social media data. For more information, please refer to [EXALT](https://lt3.ugent.be/exalt/).
+The is the first shared task on explainability of cross-lingual emotion detection. With recent developments of large, opaque, black box systems behind APIs, it is becoming harder and harder to understand the rationales behind decisions made by these models for subjective tasks. To look further into one such direction, we aim to better understand the decision making of emotion detection systems and assess if they are capable of understanding the triggers of emotion in social media data. For more information, please visit [EXALT](https://lt3.ugent.be/exalt/).
 
 Shared-task 2 can be found on [codalab](https://codalab.lisn.upsaclay.fr/competitions/17730)
 
